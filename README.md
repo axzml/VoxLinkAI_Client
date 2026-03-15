@@ -35,7 +35,7 @@ VoxLink AI 是一款原生 macOS 语音输入助手。按住快捷键说话，AI
 
 - macOS 14.0 (Sonoma) 或更高版本
 - Xcode 15.0+
-- Apple Silicon (M1/M2/M3) 或 Intel Mac
+- Apple Silicon (M1/M2/M3/M4)
 
 ### 快速开始
 
@@ -104,7 +104,7 @@ VoxLink AI 是一款原生 macOS 语音输入助手。按住快捷键说话，AI
 | macOS | 14.0 (Sonoma) or later |
 | Xcode | 15.0+ |
 | Swift | 5.9+ |
-| Hardware | Apple Silicon (M1/M2/M3) or Intel Mac |
+| Hardware | Apple Silicon (M1/M2/M3/M4) |
 
 ## Quick Install (DMG)
 
