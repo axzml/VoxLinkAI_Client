@@ -8,7 +8,7 @@ A native macOS voice input assistant built with Swift and SwiftUI. Press a hotke
 
 <div align="center">
 
-https://github.com/user-attachments/assets/placeholder
+https://github.com/user-attachments/assets/9f1db1c3-6ac2-434c-80ab-22b46bce3bc1
 
 *If the video above doesn't load, [download the demo (2 MB)](assets/demo.mp4).*
 
