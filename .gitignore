@@ -1,0 +1,44 @@
+# Xcode
+**/xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Configuration files (contain secrets)
+Secrets.plist
+!Secrets.example.plist
+
+# Environment variables
+.env
+.env.*
+
+# OS
+.DS_Store
+*.swp
+*~.nib
+
+# Temporary files
+*.tmp
+*.temp
+
+# Website (separate repo: axzml/voxlink-ai-web)
+website/
+
+# DMG builds (use GitHub Releases instead)
+*.dmg
